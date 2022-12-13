@@ -4,7 +4,7 @@
 sudo apt-get update
 
 # ohmybash - https://ohmybash.nntoan.com/
-# Themes: agnoster, candy, nwinkler, roderik, tonotdo
+# Themes: agnoster, powerline, powerline-multiline, powerline-plain
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
 
 # BASH COMMANDS
