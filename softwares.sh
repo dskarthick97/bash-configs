@@ -3,6 +3,10 @@
 # To update packages and upgrade softwares
 sudo apt-get update
 
+# ohmybash - https://ohmybash.nntoan.com/
+# Themes: agnoster, candy, nwinkler, roderik, tonotdo
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
+
 # BASH COMMANDS
 # locate
 sudo apt-get install mlocate
