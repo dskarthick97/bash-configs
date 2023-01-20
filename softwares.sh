@@ -92,3 +92,8 @@ sudo apt-get install mysql-client
 
 # kubernetes - minikube, kubectl
 
+# pyenv
+# https://k0nze.dev/posts/install-pyenv-venv-vscode/#linux-debianubuntu
+
+# pyenv-virtualenvwrapper
+# https://github.com/pyenv/pyenv-virtualenv
