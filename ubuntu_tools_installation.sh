@@ -1,4 +1,4 @@
-SOFTWARE INSTALLATION UBUNTU:
+# SOFTWARE INSTALLATION UBUNTU:
 
 sudo apt update
 sudo apt upgrade -y
