@@ -3,11 +3,20 @@
 sudo apt update
 sudo apt upgrade -y
 
+# chrome
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+
 # curl
 sudo apt install curl
 
 # git
 sudo apt install git
+
+# fira code
+sudo add-apt-repository universe
+sudo apt update
+sudo apt install fonts-firacode
 
 # pyenv
 sudo apt install build-essential libssl-dev zlib1g-dev libbz2-dev \
