@@ -7,6 +7,10 @@ sudo apt upgrade -y
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i google-chrome-stable_current_amd64.deb
 
+# ohmybash - https://ohmybash.nntoan.com/
+# Themes: agnoster, powerline, powerline-multiline, powerline-plain
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
+
 # curl
 sudo apt install curl
 
